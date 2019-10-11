@@ -21,7 +21,7 @@
     "test/",
     "Procfile",
     "demo.html",
-    "index.html",
+    "public/index.html",
     "server.js"
   ],
   "dependencies": {
